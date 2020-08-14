@@ -1,4 +1,4 @@
-![Citi Bike](/Resources/citi_bike.jpg)
+![Citi Bike](/resources/citi_bike.jpg)
 # NYC Citi Bike Analysis 
 This is a summary of the analytic work that I did with the NYC Citi Bike data.
 [Link to dashboard] (https://public.tableau.com/profile/mei.cheng5908#!/vizhome/bikesharing_15974398606900/Challenge)
